@@ -2,6 +2,8 @@
 
 screenshots of my work, there are some bugs; however, I will finish this application after classes are over i just want to turn in what I have so far.
 
+![deployed-heroku](/develop/assets/deployed-heroku.png)
+
 ![mongo-troubleshoot](/develop/assets/monngo-troubleshoot.png)
 
 ![my-terminal](/develop/assets/my-terminal.png)
